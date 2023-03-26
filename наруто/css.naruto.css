@@ -1,0 +1,86 @@
+.q1
+{
+margin-top:-38px ;
+
+
+ }
+ .w2
+ {
+ margin-top:70px;
+ color:white ;   
+   }
+
+.e3
+{   
+margin-top:40px;
+color:white ;
+ }
+ main
+ {  
+background-color:darkgreen ;
+height:800px ;
+  }
+
+.g4
+{   
+width:130px ;
+height:40px ;
+background-color:black ;
+margin-right:150px ;
+color:white ;
+font-size: 20px;
+text-align:center ;
+  }   
+.r5
+{  
+display:flex ;
+margin-left:90px ;
+  }
+.t6
+{   
+display:flex ;
+margin-left:90px ;
+ }
+ .y7
+ { 
+width:130px ;
+height:40px ;
+background-color:black ;
+margin-right:100px ;
+color:white ;
+margin-top:20px ;
+font-size:20px ;
+text-align:center ;
+  }
+.z0
+{  
+margin-top:40px ;
+color:white ;
+ }
+ .az
+  {                             
+  color: white ;
+  font-size:20px ;
+  margin-right:65px ;
+    }
+.isaac
+{   
+ 
+background-color:black ;
+display: flex;
+height:90px ;
+align-items:center ;
+justify-content:space-around ;
+  }
+.map 
+{
+    
+    padding: 40px 0;
+    text-align: center;
+    
+}
+.container 
+{
+    max-width: 1000px;
+    margin: 0 auto;
+}

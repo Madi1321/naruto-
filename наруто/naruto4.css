@@ -1,0 +1,53 @@
+main
+ {  
+background-color:darkgreen ;
+height:900px ; 
+width: 100%;
+padding-top: 100px;                 
+                 }
+ .my
+ {    
+color:white ;
+margin-top:5px ;
+font-size:20px ;
+
+   }
+.av  
+{    
+color:white ;
+font-size:20px ; 
+width:90% ;
+text-align:center ;
+margin-left:45px ;
+
+ }    
+ .q1
+{
+margin-top:-35px ;
+}
+.my1
+{     
+color:white ;
+
+font-size:10px ;
+ }
+ .no 
+ {      
+margin-left: 510px;
+
+  }
+  .az
+  {                             
+  color: white ;
+  font-size:20px ;
+  margin-right:65px ;
+    }
+.isaac
+{   
+ 
+background-color:black ;
+display: flex;
+height:90px ;
+align-items:center ;
+justify-content:space-around ;
+  }
